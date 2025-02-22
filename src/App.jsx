@@ -9,7 +9,7 @@ export default function EssayMarker() {
   const [loading, setLoading] = useState(false);
   const [isDarkMode, setIsDarkMode] = useState(false);
 
-  const apiKey = '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'; // New API key
+  const apiKey = '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'; // New API key
 
   // Hard-coded information about Assessment Objectives and Mark Bands
   const examinerInstructions = `
